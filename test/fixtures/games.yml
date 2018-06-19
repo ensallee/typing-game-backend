@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  accuracy: MyString
+  wpm: MyString
+  user: one
+
+two:
+  accuracy: MyString
+  wpm: MyString
+  user: two
