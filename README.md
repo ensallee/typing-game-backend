@@ -3,7 +3,7 @@ The Ultimate Typing Test is a full stack single page app that allows users to te
 
 ## Getting Started
 **NOTE: THIS IS THE BACKEND REPO FOR THE ULTIMATE TYPING TEST**  
-To install The Ultimate Typing Test, first fork and clone the backend repo, which is in this repo. Next, run `bundle install`, followed by `rails db:create && rails db:migrate`. Then, run `rails s`, which will launch the API on a local server.
+To install The Ultimate Typing Test, first fork and clone the backend, which is in this repo. Next, run `bundle install`, followed by `rails db:create && rails db:migrate`. Then, run `rails s`, which will launch the API on a local server.
 
 Once you have the backend running, fork and clone the frontend at [this link.](https://github.com/derekgch/typing-game) Then, open index.html in the browser. You will need to “log in” in order to play the game. Feel free to use the name "guest".
 
